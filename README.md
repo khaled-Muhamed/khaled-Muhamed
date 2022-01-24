@@ -1,6 +1,7 @@
 # <samp>Khaled Abdelghany</samp><img src="https://github.com/khaled-Muhamed/khaled-Muhamed/blob/main/assets/mario_hello_big.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/khaled-abdelghany-40594512a/)](https://www.linkedin.com/in/khaled-abdelghany-40594512a/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:murillo.pezzuol@gmail.com)](mailto:murillo.pezzuol@gmail.com)
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
 
